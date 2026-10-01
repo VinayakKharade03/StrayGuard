@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JayeshJadhav28/StrayGuard"><img src="https://img.shields.io/badge/GitHub-StrayGuard-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://tinyurl.com/n7ryzf39"><img src="https://img.shields.io/badge/Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Demo Video"/></a>
   <a href="https://strayguard.vercel.app"><img src="https://img.shields.io/badge/Dashboard-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Dashboard"/></a>
   <img src="https://img.shields.io/badge/Flutter-Android-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -466,7 +465,7 @@ PlatformIO                 # ESP32 firmware flashing
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JayeshJadhav28/StrayGuard.git
+git clone https://github.com/<your-username>/StrayGuard.git
 cd StrayGuard
 ```
 
@@ -652,6 +651,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
   <img src="https://strayguard.vercel.app/logo.png" alt="StrayGuard" width="60"/>
   <br/>
   <i>StrayGuard-Mobile · National Road Safety Hackathon 2026</i>
-  <br/>
-  <a href="https://github.com/VinayakKharade/StrayGuard">github.com/JayeshJadhav28/StrayGuard</a>
 </p>
