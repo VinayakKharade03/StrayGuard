@@ -8,8 +8,7 @@
   <b>Smartphone AI Dashcam & Intelligent Speed Assistance for Stray‑Animal Road Safety in India</b>
 </p>
 
-<p align="center">
-  <a href="https://tinyurl.com/n7ryzf39"><img src="https://img.shields.io/badge/Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Demo Video"/></a>
+
   <a href="https://strayguard.vercel.app"><img src="https://img.shields.io/badge/Dashboard-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Dashboard"/></a>
   <img src="https://img.shields.io/badge/Flutter-Android-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/FastAPI-Python%203.10-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
