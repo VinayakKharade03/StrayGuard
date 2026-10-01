@@ -653,5 +653,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
   <br/>
   <i>StrayGuard-Mobile · National Road Safety Hackathon 2026</i>
   <br/>
-  <a href="https://github.com/JayeshJadhav28/StrayGuard">github.com/JayeshJadhav28/StrayGuard</a>
+  <a href="https://github.com/VinayakKharade/StrayGuard">github.com/JayeshJadhav28/StrayGuard</a>
 </p>
